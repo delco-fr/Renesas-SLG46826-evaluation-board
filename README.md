@@ -2,7 +2,7 @@
 
 Ce projet Open Source Hardware propose une carte d'évaluation et de prototypage minimaliste pour le circuit mixte programmable **Renesas SLG46826** (famille GreenPAK™).
 
-La carte expose l'ensemble des entrées/sorties (I/O) du composant sur un format pratique DIL-20 large (au pas de 2,54 mm, largeur 15,24 mm) et intègre un connecteur spécifique pour faciliter sa programmation in-situ.
+La carte expose l'ensemble des entrées/sorties (I/O) du composant sur un format pratique DIL-20 large (au pas de 2,54 mm, largeur 15,24 mm) et intègre un connecteur I²C Grove pour faciliter sa programmation in-situ.
 
 ---
 
@@ -20,7 +20,8 @@ La carte expose l'ensemble des entrées/sorties (I/O) du composant sur un format
 Le dépôt est organisé de la manière suivante :
 
 * 📁 `pdf/` : Contient le schéma électronique complet de la carte au format PDF.
-* 📁 `images/` : Contient les photos du PCB, les rendus 3D et les illustrations du projet.
+* 📁 `pics/` : Contient les photos du PCB, les rendus 3D et les illustrations du projet.
+* 📁 `prod/` : Contient les fichiers nécessaires pour la production de la carte (par JLCPCB).
 * 🛠️ *Fichiers sources de conception disponibles à la racine (conçu avec KiCad 10)*.
 
 ---
@@ -28,7 +29,7 @@ Le dépôt est organisé de la manière suivante :
 ## 📐 Schéma Électronique
 
 Le schéma électrique a été développé sous KiCad. Une version exportée prête à la lecture est disponible directement ici :
-👉 **[Consulter le schéma PDF](pdf/ev_board.pdf)** *(adapter le nom du fichier si nécessaire)*
+👉 **[Consulter le schéma PDF](pdf/ev_board_v1.0.pdf)** *(adapter le nom du fichier si nécessaire)*
 
 ### Aperçu du circuit
 *(Une fois votre image générée, vous pourrez l'insérer ici)*
