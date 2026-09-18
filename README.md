@@ -2,7 +2,7 @@
 
 Ce projet Open Source Hardware propose une carte d'évaluation et de prototypage minimaliste pour le circuit mixte programmable **Renesas SLG46826** (famille GreenPAK™).
 
-La carte expose l'ensemble des entrées/sorties (I/O) du composant sur un format pratique DIL-20 (au pas de 2,54 mm, largeur 15,24 mm) et intègre un connecteur spécifique pour faciliter sa programmation in-situ.
+La carte expose l'ensemble des entrées/sorties (I/O) du composant sur un format pratique DIL-20 large (au pas de 2,54 mm, largeur 15,24 mm) et intègre un connecteur spécifique pour faciliter sa programmation in-situ.
 
 ---
 
