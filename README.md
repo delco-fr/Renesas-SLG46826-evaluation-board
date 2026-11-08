@@ -33,7 +33,7 @@ Le schéma électrique a été développé sous KiCad. Une version exportée pr�
 
 ### Aperçu du circuit
 *(Une fois votre image générée, vous pourrez l'insérer ici)*
-![Schéma de la carte d'évaluation](images/schematic_preview.png)
+![Schéma de la carte d'évaluation](pics/Board_top_flat.png)
 
 ---
 
