@@ -1,1 +1,5 @@
-
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",0402,2,100nF,C1525
+J1,DIP-20_W15.24mm_LongPads,1,DIL-20W,
+J2,NS-Tech_Grove_1x04_P2mm_Vertical,1,Grove I²C,C7429580
+U1,TSSOP-20_4.4x6.5mm_P0.65mm,1,SLG46826G,
