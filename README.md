@@ -29,7 +29,7 @@ Le dépôt est organisé de la manière suivante :
 ## 📐 Schéma Électronique
 
 Le schéma électrique a été développé sous KiCad. Une version exportée prête à la lecture est disponible directement ici :
-👉 **[Consulter le schéma PDF](pdf/ev_board_v1.0.pdf)**
+ **[Consulter le schéma PDF](pdf/ev_board_v1.0.pdf)**
 
 ### Aperçu du circuit
 <p align="center">
