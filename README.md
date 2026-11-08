@@ -32,7 +32,7 @@ Le schéma électrique a été développé sous KiCad. Une version exportée pr�
 👉 **[Consulter le schéma PDF](pdf/ev_board_v1.0.pdf)** *(adapter le nom du fichier si nécessaire)*
 
 ### Aperçu du circuit
-*(Une fois votre image générée, vous pourrez l'insérer ici)*
+<img src="pics/Board_top_flat.png" width="50%">
 ![Schéma de la carte d'évaluation](pics/Board_top_flat.png)
 
 ---
