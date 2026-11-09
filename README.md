@@ -1,4 +1,4 @@
-# Carte d'évaluation pour Renesas SLG46826 (GreenPAK) / Evaluation Board for Renesas SLG46826 (GreenPAK)
+# Carte d'évaluation pour Renesas SLG46826 (GreenPAK)<br>Evaluation Board for Renesas SLG46826 (GreenPAK)
 
 Ce dépôt contient la documentation et les fichiers de conception d'une carte d'évaluation pour le Renesas SLG46826, disponible en français et en anglais.  
 This repository contains the documentation and design files for a Renesas SLG46826 evaluation board, available in both French and English.
