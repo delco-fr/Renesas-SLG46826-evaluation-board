@@ -1,8 +1,12 @@
 # Evaluation Board for Renesas SLG46826 (GreenPAK)<br>Carte d'évaluation pour Renesas SLG46826 (GreenPAK)
 
-🌍 [🇬🇧 English Version](#english-version) | [🇫🇷 Version Française](#version-française)
+## 🌍 Language / Langue
+
+[🇬🇧 English Version](#english-version) | [🇫🇷 Version Française](#version-française)
 
 ---
+
+<div id="english-version"></div>
 
 # 🇬🇧 English Version
 
@@ -77,6 +81,8 @@ This hardware project is open-source hardware. The PCB design is published under
 You are free to manufacture, modify, and distribute this board, provided that you maintain the same open-source sharing conditions for your own modifications (strong reciprocity).
 
 ---
+
+<div id="version-française"></div>
 
 # 🇫🇷 Version Française
 
