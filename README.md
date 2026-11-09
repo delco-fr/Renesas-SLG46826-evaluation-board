@@ -1,10 +1,10 @@
 # Evaluation Board for Renesas SLG46826 (GreenPAK)<br>Carte d'évaluation pour Renesas SLG46826 (GreenPAK)
 
-🌍 [English Version](#english-version) | [Version Française](#version-française)
+🌍 [🇬🇧 English Version](#english-version) | [🇫🇷 Version Française](#version-française)
 
 ---
 
-# English Version
+# 🇬🇧 English Version
 
 This Open Source Hardware project features a minimalist evaluation and prototyping board for the **Renesas SLG46826** programmable mixed-signal matrix (GreenPAK™ family).
 
@@ -78,7 +78,7 @@ You are free to manufacture, modify, and distribute this board, provided that yo
 
 ---
 
-# Version Française
+# 🇫🇷 Version Française
 
 Ce projet Open Source Hardware propose une carte d'évaluation et de prototypage minimaliste pour le circuit mixte programmable **Renesas SLG46826** (famille GreenPAK™).
 
