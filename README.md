@@ -1,5 +1,10 @@
 # Evaluation Board for Renesas SLG46826 (GreenPAK)<br>Carte d'évaluation pour Renesas SLG46826 (GreenPAK)
 
+[![Hardware License](https://shields.io)](https://spdx.org)
+[![OSH-Badge](https://shields.io)](https://oshwa.org)
+[![KiCad Version](https://shields.io)](https://kicad.org)
+[![Target IC](https://shields.io)](https://renesas.com)
+
 ## 🌍 Language / Langue
 
 [🇬🇧 English Version](#english-version) | [🇫🇷 Version Française](#version-française)
