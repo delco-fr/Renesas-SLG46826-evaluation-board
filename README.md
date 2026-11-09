@@ -1,6 +1,6 @@
-# Evaluation Board for Renesas SLG46826 (GreenPAK) / Carte d'évaluation pour Renesas SLG46826 (GreenPAK)
+# Evaluation Board for Renesas SLG46826 (GreenPAK)<br>Carte d'évaluation pour Renesas SLG46826 (GreenPAK)
 
-[English Version](#english-version) | [Version Française](#version-française)
+🌍 [English Version](#english-version) | [Version Française](#version-française)
 
 ---
 
