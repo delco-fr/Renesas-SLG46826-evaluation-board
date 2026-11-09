@@ -44,7 +44,7 @@ The schematic diagram was developed using KiCad. A ready-to-read exported versio
 
 ## 🚀 Example Application
 
-Below is an example implementation of a digital logic circuit designed for the SLG46826 Matrix. 
+Below is an example implementation of a digital logic circuit designed for the SLG46824 Matrix (SLG46826 without E²PROM).
 
 ### Matrix Logic Diagram
 The internal routing and macrocells (LUTs, Counters, Oscillators) are configured to map the signals onto the available physical I/O pins.
@@ -62,7 +62,7 @@ EC EA B6 EC EA B6 49 0D 34 CE CD 3C F7 02 D9 4A 64 03 00 00 00 00 00 00 00 00 D0
 ### Timing Diagram (Simulation)
 The waveform diagram below shows the behavior and response of the configured macrocells over time against changing input stimuli.
 <p align="center">
-  <img src="pics/image_bdqR21.png" width="80%">
+  <img src="example/simulation.png" width="40%">
 </p>
 
 ---
