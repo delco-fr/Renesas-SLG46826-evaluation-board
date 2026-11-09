@@ -49,7 +49,7 @@ Below is an example implementation of a digital logic circuit designed for the S
 ### Matrix Logic Diagram
 The internal routing and macrocells (LUTs, Counters, Oscillators) are configured to map the signals onto the available physical I/O pins.
 <p align="center">
-  <img src="pics/image_HgWAkP.png" width="80%">
+  <img src="example/schematic.png" width="50%">
 </p>
 
 ### NVM Data Configuration (Projet v1.0.txt)
