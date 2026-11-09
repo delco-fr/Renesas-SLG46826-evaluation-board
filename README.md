@@ -1,9 +1,9 @@
 # Evaluation Board for Renesas SLG46826 (GreenPAK)<br>Carte d'évaluation pour Renesas SLG46826 (GreenPAK)
 
-[![Hardware License](https://img.shields.io/badge/license-CERN-OHL-S-2.0-blue)](https://spdx.org/licenses/CERN-OHL-S-2.0.html)
-[![OSH-Badge](https://shields.io)](https://oshwa.org)
-[![KiCad Version](https://shields.io)](https://kicad.org)
-[![Target IC](https://shields.io)](https://renesas.com)
+[![Hardware License](https://img.shields.io/badge/license-CERN--OHL--S--2.0-blue)](https://spdx.org/licenses/CERN-OHL-S-2.0.html)
+[![OSHWA Organization](https://img.shields.io/badge/OSHWA-Open_Source_Hardware-orange)](https://oshwa.org)
+[![KiCad Version](https://img.shields.io/badge/Made_with-KiCAD_v10-314E87)](https://kicad.org)
+[![Target IC](https://img.shields.io/badge/IC-SLG46826-003399)](https://www.renesas.com/en/products/slg46826)
 
 ## 🌍 Language / Langue
 
