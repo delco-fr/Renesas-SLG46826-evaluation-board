@@ -62,7 +62,7 @@ EC EA B6 EC EA B6 49 0D 34 CE CD 3C F7 02 D9 4A 64 03 00 00 00 00 00 00 00 00 D0
 ### Timing Diagram (Simulation)
 The waveform diagram below shows the behavior and response of the configured macrocells over time against changing input stimuli.
 <p align="center">
-  <img src="example/simulation.png" width="40%">
+  <img src="example/simulation.png" width="50%">
 </p>
 
 ---
@@ -99,7 +99,7 @@ La carte expose l'ensemble des entrées/sorties (I/O) du composant sur un format
 
 ## 📂 Structure du dépôt
 
-Le dépôt est organized de la manière suivante :
+Le dépôt est organisé de la manière suivante :
 
 * 📁 `pdf/` : Contient le schéma électronique complet de la carte au format PDF.
 * 📁 `pics/` : Contient les photos du PCB, les rendus 3D et les illustrations du projet.
@@ -120,15 +120,15 @@ Le schéma électrique a été développé sous KiCad. Une version exportée pr�
 
 ## 🚀 Exemple d'application
 
-Voici un exemple d'implémentation de circuit logique numérique conçu pour la matrice du SLG46826.
+Voici un exemple d'implémentation de circuit logique numérique conçu pour la matrice du SLG46824 (SLG46826 sans E²PROM).
 
 ### Schéma Logique de la Matrice
-Le routage interne ainsi que les macrocellules (LUTs, Compteurs, Oscillateurs) sont configurés de manière à mapper les signaux sur les broches physiques de la carte.
+Le routage interne ainsi que les macro-cellules (LUTs, Compteurs, Oscillateurs) sont configurés de manière à mapper les signaux sur les broches physiques de la carte.
 <p align="center">
-  <img src="pics/image_HgWAkP.png" width="80%">
+  <img src="example/schematic.png" width="50%">
 </p>
 
-### Configuration des données NVM (Projet v1.0.txt)
+### Configuration des données NVM (NVM_datas.txt)
 Ce bloc hexadécimal représente le contenu de configuration de la mémoire non-volatile (NVM) prêt à être écrit via l'interface I²C pour programmer le circuit :
 
 ```text
@@ -136,9 +136,9 @@ EC EA B6 EC EA B6 49 0D 34 CE CD 3C F7 02 D9 4A 64 03 00 00 00 00 00 00 00 00 D0
 ```
 
 ### Chronogramme (Simulation)
-Le chronogramme ci-dessous illustre le comportement temporel et les signaux de réponse des macrocellules configurées face aux stimuli d'entrée.
+Le chronogramme ci-dessous illustre le comportement temporel et les signaux de réponse des macro-cellules configurées face aux stimuli d'entrée.
 <p align="center">
-  <img src="pics/image_bdqR21.png" width="80%">
+  <img src="example/simulation.png" width="50%">
 </p>
 
 ---
