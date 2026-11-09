@@ -52,7 +52,7 @@ The internal routing and macrocells (LUTs, Counters, Oscillators) are configured
   <img src="example/schematic.png" width="50%">
 </p>
 
-### NVM Data Configuration (Projet v1.0.txt)
+### NVM Data Configuration [View the NVM file](example/NVM_datas.txt)
 This hex dump represents the non-volatile memory (NVM) configuration data ready to be written via the I²C interface to program the device:
 
 ```text
