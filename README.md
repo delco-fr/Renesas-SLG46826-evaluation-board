@@ -84,7 +84,7 @@ The waveform diagram below shows the behavior and response of the configured mac
 
 ## 🔗 Useful Links & Documentation
 
-* **Official Datasheet :** Find all the technical and electrical specifications on the [Renesas SLG46826 Product Page & Datasheet](https://renesas.com).
+* **Official Datasheet :** Find all the technical and electrical specifications on the [Renesas SLG46826 Product Page & Datasheet](https://www.renesas.com/en/products/slg46826).
 * **Design Software :** This PCB circuit was routed using [KiCad E.D.A. suite](https://kicad.org).
 
 ## ⚖️ License
@@ -175,7 +175,7 @@ Le chronogramme ci-dessous illustre le comportement temporel et les signaux de r
 
 ## 🔗 Liens utiles & Documentation
 
-* **Datasheet officielle :** Retrouvez toutes les spécifications techniques et électriques détaillées du circuit sur la [Page produit et Datasheet Renesas SLG46826](https://renesas.com).
+* **Datasheet officielle :** Retrouvez toutes les spécifications techniques et électriques détaillées du circuit sur la [Page produit et Datasheet Renesas SLG46826](https://www.renesas.com/en/products/slg46826).
 * **Logiciel de conception :** Le circuit a été routé à l'aide des outils de la suite [KiCad E.D.A.](https://kicad.org).
 
 ## ⚖️ Licence
